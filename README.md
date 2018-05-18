@@ -18,23 +18,23 @@ In the `example` folder is the notarize project which will help get you started 
 
 ## Additional Links
 
-[State of the DApps](https://www.stateofthedapps.com/)
+* [State of the DApps](https://www.stateofthedapps.com/)
 A list of DApps that currently exist on the Ethereum network.
 
-[Etherscan](https://etherscan.io/)
+* [Etherscan](https://etherscan.io/)
 A block explorer for the Ethereum network
 
-[Bockchain.info](https://blockchain.info/)
+* [Bockchain.info](https://blockchain.info/)
 A block explorer for the  Bitcoin network
 
-[Open Zeppelin](https://openzeppelin.org/)
+* [Open Zeppelin](https://openzeppelin.org/)
 Model smart contracts
 
-[Truffle](http://truffleframework.com)
+* [Truffle](http://truffleframework.com)
 A local Ethereum test environment
 
-[Remix IDE](https://remix.ethereum.org)
+* [Remix IDE](https://remix.ethereum.org)
 A browser based Solidity IDE
 
-[CryptoSocCoin](https://github.com/CryptoSoc/CryptoSocCoin)
+* [CryptoSocCoin](https://github.com/CryptoSoc/CryptoSocCoin)
 An ERC20 token created for test purposes by the CryptoSoc team
